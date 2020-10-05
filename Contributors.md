@@ -9369,6 +9369,7 @@ Stephan Sharpe
 - [Rafael Bastiansch](https://github.com/rbastiansch)
 - [Imesh Umayanga](http://github.com/imesh94)
 - [Bhavika Potdar](http://github.com/bhavi12)
+- [Sagar Masand](http://github.com/sagarmasand10)
 - [Paul Benson](https://github.com/prbenson)
 - [mind-as-well](https://github.com/mind-as-well)
 - [Mike Wales](https://github.com/walesmd)
